@@ -8,4 +8,4 @@ my previous employers.
 I uploaded the first draft of the analysis in Jupyter Notebook.
 
 9/22/22
-I did some proofreading and made some corrections, mostly regarding calculations, syntax, and grammar.
+I did some proofreading and made some corrections, mostly regarding calculations, syntax, and grammar. I deleted the first draft and reuploaded the edited draft.
