@@ -7,13 +7,15 @@ Any opinion or statement in these analyses is my own and does not reflect the op
 I did some exploratory analysis about the 2015 to 2019 Regents state test results in NYC to identify trends across multiple variables, such as disability status, ethnicity,
 English language learning status, and gender.
 
-
-9/21/22
-I uploaded the first draft of the analysis in Jupyter Notebook.
+9/29/22
+I uploaded another draft.
 
 9/22/22
 I did some proofreading and made some corrections, mostly regarding calculations, syntax, spelling, and grammar. I deleted the first draft and uploaded the 
 edited draft.
+
+9/21/22
+I uploaded the first draft of the analysis in Jupyter Notebook.
 
 Citation of data:
 NYC OpenData. (2022). "2014-15 to 2017-19 NYC Regents Exam Results - Public". Available at https://data.cityofnewyork.us/Education/2014-15-to-2017-19-NYC-Regents-Exam-Results-Public/bnea-fu3k
