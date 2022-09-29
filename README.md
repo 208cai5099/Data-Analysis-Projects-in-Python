@@ -16,7 +16,8 @@ edited draft.
 
 ## NYC Motor Collisions Analysis
 I visualized the collision frequency of vehicles across zip codes, time of day, and time of year. I also created a random forest model to predict the number of 
-casualities based on multiple factors, but the accuracy is low.
+casualities based on multiple factors, but it turned out it was not a suitable model for this context. Simple statistics, such as mode or average, was better for this 
+problem.
 
 9/28/22
 I uploaded the analysis in Jupyter Notebook.
