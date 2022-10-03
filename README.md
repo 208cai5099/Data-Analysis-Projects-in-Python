@@ -7,6 +7,9 @@ Any opinion or statement in these analyses is my own and does not reflect the op
 I did some exploratory analysis about the 2015 to 2019 Regents state test results in NYC to identify trends across multiple variables, such as disability status, ethnicity,
 English language learning status, and gender.
 
+10/2/22
+I added notes to clarify how to interpret the college readiness measurements in the dataset.
+
 9/29/22
 I uploaded another draft.
 
@@ -30,4 +33,5 @@ I uploaded the analysis in Jupyter Notebook.
 
 Citation of data:
 NYC OpenData. (9/27/2022). "Motor Vehicle Collisions - Crashes". Available at https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
 Note that the dataset updates on a daily basis. The dataset used for this analysis was downloaded on 9/27/2022.
